@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/northstar.iml" filepath="$PROJECT_DIR$/northstar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/northstar-biz/northstar-biz.iml" filepath="$PROJECT_DIR$/northstar-biz/northstar-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/northstar-web/northstar-web.iml" filepath="$PROJECT_DIR$/northstar-web/northstar-web.iml" />
+    </modules>
+  </component>
+</project>
