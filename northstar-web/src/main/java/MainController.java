@@ -18,6 +18,12 @@ public class MainController {
         return "Hello World!";
     }
 
+    @RequestMapping("/test/login")
+    @ResponseBody
+    String login(String username,String password) {
+        return "success,userName="+username+",password="+password;
+    }
+
     public static void main(String[] args) throws Exception {
         SpringApplication.run(MainController.class, args);
     }
