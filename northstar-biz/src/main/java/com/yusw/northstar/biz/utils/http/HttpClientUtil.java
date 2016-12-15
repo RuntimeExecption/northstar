@@ -1,4 +1,4 @@
-package utils;
+package com.yusw.northstar.biz.utils.http;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;

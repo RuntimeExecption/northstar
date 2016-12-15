@@ -7,9 +7,7 @@
           <element id="module-output" name="northstar-web" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="northstar-biz-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="northstar-biz" />
-          </element>
+          <element id="library" level="project" name="Maven: com.yswsoft.com.northstar:northstar-biz:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:1.4.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:1.4.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.4.1.RELEASE" />
